@@ -2,7 +2,8 @@
 
 ## Project Overview
 
-This project is an interactive Power BI dashboard that provides insights into Microsoft’s stock performance over time. It allows users to explore trends, track key stock metrics, and visualize historical data to aid in financial analysis and decision-making. The dashboard includes essential stock indicators like opening and closing prices, daily high and low, adjusted close, and trading volume.
+This project is an interactive Power BI dashboard that provides insights into Microsoft’s stock performance over time. It allows users to explore trends, track key stock metrics, and visualize historical data to aid in financial analysis and decision-making. The dashboard includes essential stock indicators like opening and closing prices, daily high and low, adjusted close, and trading volume.![image](https://github.com/user-attachments/assets/93ca619f-0205-49f0-b9e8-79bf728f911d)
+
 
 ## Key Features
 
@@ -37,8 +38,7 @@ This project is an interactive Power BI dashboard that provides insights into Mi
 
 ## Demo
 
-To see the dashboard in action, watch the interactive demo [here](insert-link).
-
+To see the dashboard in action, watch the interactive demo [here] ( https://drive.google.com/file/d/1LUiHhqH0xUZBsbY3UeC3nXBfsfjLE7po/view?usp=drive_link)
 ## Conclusion
 
 This Power BI dashboard serves as a powerful tool for financial analysis, allowing users to explore Microsoft’s stock performance through dynamic and interactive visualizations. It provides an easy-to-understand interface for tracking key metrics and making data-driven investment decisions.
